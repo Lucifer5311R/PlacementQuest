@@ -1,0 +1,307 @@
+Column 1,Full Name ,Registration Number  ,Email ID  ,Phone Number  ,LinkedIn Profile URL  ,  GitHub Profile URL  ,A short description about yourself,"Internship Details:
+Mention the Company Name and Role/Position for all internships you have completed.  ","Project Details:
+Project Name , Technologies Used  and  Short Description    ","Technical Skills / Keywords  
+
+Mention programming languages, tools, frameworks, databases, and technologies you know.
+Separate keywords using commas.  ", Resume Link  
+5/30/2026 21:27:00,Akshitha N,2440139,n.akshitha@bsccmh.christuniversity.in,8951407898,https://www.linkedin.com/in/n-akshitha-86a4b3371,https://github.com/Akshi7898,"I am a student who is eager to learn new things and improve my skills. I am hardworking, responsible, and interested in building my career.","Mindenious – UI/UX Design and Graphic Design Intern
+Oasis Infobyte – Web Development Intern","Landing Page – HTML, CSS – Responsive website landing page.
+Temperature Converter – HTML, CSS, JavaScript – Converts temperature units.
+To-Do Web App – HTML, CSS, JavaScript – Manages daily tasks.","C, java, vs code , mySql, html, web development and ui/ux design",
+5/30/2026 20:37:53,Alen Aju Alex,2440104,alenaju.alex@bsccmh.christuniversity.in,9188819361,,,"I am a passionate BSc Computer Science student with a strong focus on cybersecurity and networking. Driven by a deep curiosity for how systems communicate and how to protect them, I enjoy building secure digital infrastructures and solving complex IT challenges.",Digisnare technology: web developer,"Currently working:
+1. Network Intrusion Detection System with Honeypot and web dashboard 
+Technologies- scapy, Python, nmap, wireshark, nodejs, etc","Python, mysql
+Studying: network troubleshooting, GNS3",
+5/30/2026 17:16:47,Anchal Jarial,2440106,anchal.jarial@bsccmh.christuniversity.in,8618911086,www.linkedin.com/in/anchal-jarial-a4941734,,"I am currently pursuing a Bachelor's degree in Computer Science and Mathematics. I have a strong interest in technology, particularly in data analytics, software development, and cloud computing.
+I enjoy working with data to identify patterns, gain insights, and support decision-making. Through my academic coursework and personal learning, I have developed skills in programming, problem-solving, and analytical thinking. I am familiar with tools and technologies such as Python, SQL, and data visualization techniques, and I am continuously expanding my knowledge in these areas.","Edunet foundations : Foundations of AI - Project based on Resume Analyzer
+Digisnare as a web development intern : Converzo - designed a  website for pdf conversions
+","Resume Analyzer
+Developed a resume analysis system using Python, Pandas, NumPy, and Matplotlib.
+Processed and analyzed resume data to identify relevant skills or keywords. Automated the classification of resumes into suitable fields, making it easier to shortlist and categorize candidates. Visualized insights and trends from resume data using graphical representations. 
+
+E-commerce Sales Dashboard
+Analyzing the sales, profits, and customer behavior on the product on sale. Created visualizations and interactive dashboards to present insights using charts, graphs, and filters.","Excel, PoweBI, MySQL , Python, Java , C , HTML, CSS, JavaScript, , Git, GitHub, Visual Studio Code , Cloud Computing ,Scikit-learn, TensorFlow, MediaPipe ,",https://drive.google.com/open?id=126KxML6Pqr-VspIIEPtpXv-a2xzZJG-x
+5/30/2026 6:58:27,Anjana J,2440108,anjana.j@bsccmh.christuniversity.in ,7483689591,,,"I am a B.Sc. Computer Science student who enjoys learning new technologies and solving problems. I am adaptable, and always willing to improve my skills. I like working both independently and as part of a team and look forward to gaining practical experience in the industry.",Hudini-Mobile Application Development ,"Guide App, Tools-React Native 
+Created a guide app for tourist accessibility ","Python,SQL,C",
+5/31/2026 0:22:19,Arogya Stephen Raj.A ,2440111,arogya.stephen@bsccmh.christuniversity.in,8792999027,https://www.linkedin.com/in/arogya-stephen-raj-7611b3318?utm_source=share_via&utm_content=profile&utm_medium=member_android,,"I am Arogya Stephen Raj, a B.Sc. Computer Mathematics student at Christ (Deemed-to-be) University with a strong interest in Data Analytics, Programming, and Technology. I have gained practical experience through a Data Analytics internship, where I worked on data analysis, Power BI dashboards, and Python-based projects. Alongside academics, I actively participate in leadership initiatives, event coordination, and student mentoring, which have strengthened my communication, teamwork, and problem-solving skills. I am passionate about learning, innovation, and creating impactful solutions through technology.",Digisnare technologies -Data analytics ,Zomato data analysis - data analytics ,"C ,python ,java ,power bi",https://drive.google.com/open?id=1ocyHCt6PFaReRPQwChn0JoYK-t1bOY3Y
+5/29/2026 13:28:23,Ashlin Baiju,2440113,ashlin.baiju@bsccmh.christuniversity.in,9496286955,https://www.linkedin.com/in/ashlin-baiju-048093363,,,"1. Web Developer Intern – Prodigy InfoTech 
+Duration: Apr 2025 – May 2025
+
+2. Web Developer Intern – CodSoft 
+Duration: Apr 2025 – May 2025","1. Portfolio Website
+
+Technologies Used: HTML, CSS
+
+Description: Developed a personal portfolio website to showcase skills, projects, and career interests.
+
+2. Landing Page and Calculator
+
+Technologies Used: HTML, CSS, JavaScript
+
+Description: Created a responsive landing page and a functional calculator using JavaScript for frontend practice","HTML, CSS, JavaScript, Python, Basic DBMS, Web Development, Frontend Development, Responsive Web Design, Computer Networks, Kali Linux Basics, Cybersecurity Fundamentals, GitHub",
+5/30/2026 0:02:40,Avin Santhosh ,2440115,avinsanthosh1010@gmail.com,8075069455,https://www.linkedin.com/in/avin-santhosh-1a3782316?utm_source=share_via&utm_content=profile&utm_medium=member_android,,"I am a curious and adaptable learner with interests in programming, cloud computing, data visualization, and problem-solving. I enjoy applying technical concepts to real-world scenarios, learning new technologies quickly, and continuously improving my analytical, communication, and practical skills to grow professionally in the tech field.","Digisnare technologies 
+As web developer","Project Name: Christ College Bus Route Graph Analysis
+Technologies Used: Python, Graph Theory
+Short Description: Modeled college bus routes using graph theory concepts and real-world scenarios.
+
+
+---
+
+Project Name: Hotel Booking Data Dashboard
+Technologies Used: Power BI, Excel
+Short Description: Created a dashboard to analyze hotel booking trends and customer data.
+
+
+---
+
+Project Name: Store Invoice Generator Website
+Technologies Used: HTML, CSS, JavaScript
+Short Description: Developed a website to generate and manage digital store invoices at Digisnare.","Java, Python, Power BI, Oracle Cloud Infrastructure (OCI), Data Visualization, Graph Theory, SQL, Object-Oriented Programming (OOP), Dictionaries, Sets, Arrays, Microsoft Excel, Problem Solving, Cloud Computing, Database Management, Dashboard Creation, Analytical Thinking",
+5/28/2026 21:08:55,Bhoomika Nataraj,2440117,bhoomika.nataraj@bsccmh.christuniversity.in,7483595279,https://www.linkedin.com/in/bhoomika-nataraj-b392b7316?utm_source=share_via&utm_content=profile&utm_medium=member_ios,,,"Digisnare technologies as a web developer 
+Christ University as a telecalling intern","SkillSwap App
+Android studio
+Frontend / UI Design: XML
+Backend Logic: kotlin
+
+SkillSwap is an Android application developed for learning and improving skills through an interactive platform. The app allows users to explore learning videos, set skill reminders, find matching skills, and update their own skill. 
+Users can choose the vibe they want to study and it is a mutual teaching and learning app.","HTML,CSS,C,SQL,Mobile Application,Python,Javascript",
+5/30/2026 23:40:22,Chandan Sharma,2440118,chandan.sharma@bsccmh.christuniversity.in,9880593391,https://www.linkedin.com/in/chandan-sharma-825894374/,,"Python Programming, Git & GitHub, Data Collection & Cleaning, NumPy & Pandas, Data Visualization (Matplotlib, Seaborn), SQL & Databases, Probability & Statistics, Machine Learning Fundamentals, ML Algorithms (Regression, Trees, Clustering, etc.), Scikit-Learn, Deep Learning & Neural Networks, Web Development Basics, Large Language Models (LLMs) & Generative AI, AI-assisted Data Science Workflows",Did an month internship at Mavixy for the role of full stack web developer for 28 days.,"Real estate website : HTML, CSS, JavaScript, NodeJS, Supabase, etc.","Python, SQL, HTML, CSS, JavaScript, Git, GitHub, Anaconda, Jupyter Notebook, Google Colab, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow/PyTorch, Machine Learning, Deep Learning, Neural Networks, Data Visualization, Data Analysis, LLMs, Generative AI",
+5/29/2026 10:29:57,Emarin Anna Tushar,2440122,emarinanna.tushar@bsccmh.christuniversity.in,8848352633,https://www.linkedin.com/in/emarin-anna-tushar-758333316/,,," Digisnare Technologies LLP, Web Developer","Fest Participation and Certificate Generator ,HTML, CSS, Bootstrap, PHP, Visual Studio Code, GitHub","HTML, HTML5, CSS, CSS3, JavaScript, PHP, MySQL, SQL, Bootstrap, Git, GitHub, XAMPP, Apache, MariaDB, Perl, Visual Studio Code, VS Code, Front-end Development, Back-end Development, Web Development, Responsive Design, Client-Side Validation, Server-Side Scripting, Database Management, Version Control, UI/UX Design, Debugging, Local Server Environment",https://drive.google.com/open?id=1pYn1-SrFyqhcRwBRGW7pbifYsHHRhvWO
+5/30/2026 15:42:03,Hansika Chowdhary Manda ,2440123,hansikac.manda@gmail.com,8197243348,,,"I’m a Computer Science and Mathematics student who enjoys learning through hands-on projects and practical problem-solving. I’m especially interested in areas like AI, automation, and data analysis, and I like exploring how technology can be applied to real-world problems. I enjoy working in teams, learning new tools, and taking on challenges that help me grow both technically and creatively.
+",Digisnare technologies- data analyst intern,"1.Expense Tracker System | Python, Tkinter, MySQL
+Developed a GUI-based expense tracking application with features like budget management, expense categorization, spending analysis, and graphical trend visualization using MySQL database integration.
+2.Banking Analytics Dashboard | Power BI
+Developed interactive dashboards to analyze banking datasets using Power BI. Performed data cleaning, exploratory data analysis, KPI tracking, and trend visualization to generate business insights and support data-driven decision-making.","Programming Languages: Python, Java, SQL, HTML, CSS, C
+
+Tools & Platforms: Power BI, Tableau, Tinkercad, jupyter notebook, vscode 
+
+Frameworks & Libraries: Tkinter, Pandas, Matplotlib, numpy 
+
+Databases: MySQL
+
+Concepts & Technologies: Data Analysis, Data Visualization, Exploratory Data Analysis (EDA), Database Management Systems (DBMS), Dashboard Development",
+5/30/2026 22:39:22,Harshitha M,2440124,harshitha.m@bsccmh.christuniversity.in,8762385537,https://www.linkedin.com/in/harshitha-m-670675361?utm_source=share_via&utm_content=profile&utm_medium=member_android,-,"I'm a final year BSc student, 
+Currently focusing on academic research and project, and learning/focusing on skills",-,"AI - powered secure real estate intelligence platform.
+
+The platform uses React.js for frontend, FastAPI/Node.js for backend, and postgreSQL/MongoDB for database. AI/ML features are built with Scikit-learn, TensorFlow, XGBoost, while security uses JWT, OAuth, Cloudflare. It’s deployed using Docker, Kubernetes on AWS/GCP with Google Maps API and AR/VR for virtual tours.
+
+The AI-Powered Secure Real Estate Intelligence Platform is a PropTech solution that uses AI, ML, and Cybersecurity to make online property platforms safer and smarter. ","Programming languages- html,css,sql
+Databases- MySQL
+Tools- vs code",
+5/29/2026 8:13:04,Hithashree V,2440164,hithashree.v@bsccmh.christuniversity.in,8660321765,https://www.linkedin.com/in/hithashree-gowda-208564361?utm_source=share_via&utm_content=profile&utm_medium=member_android,https://github.com/shreehitha25,,"Web Development Intern
+Digisnare Technologies | Summer Internship
+
+Front-End: Built responsive, mobile-first web pages using HTML5, CSS3, and JavaScript.
+
+Back-End: Assisted in database management and connecting APIs for dynamic data rendering.","1.SURVEY POLL WEBSITE -HTML CSS JavaScript Bootstrap SQL
+2.HiNi — Intelligent Indian Event Management Platform
+HiNi is a full-stack MERN ecosystem designed to eliminate logistical and financial friction during large-scale traditional Indian celebrations (Weddings, Gruhapraveshas, Festivals). It shifts event coordination from passive tracking to an active, real-time experience accessible to both hosts and guests.","Python, JavaScript, TypeScript, C++, Java, HTML, CSS, SQL, React, Node.js, MySQL,Bootstrap, Tailwind CSS,MongoDB",https://drive.google.com/open?id=10kXjP-PR9V_oSBDtcWZ01o87X_ywd8ZS
+5/29/2026 14:13:24,Jainam K Jain,2440171,jainam.jain@bsccmh.christuniversity.in,8217262282,,,"An adaptable and motivated student looking to apply a growing technical skill set in SQL, Python, and Tableau to real-world business challenges. Dedicated to utilizing data to make strategic decisions while bringing strong qualitative and project coordination skills to a professional team.","data analysis , digisnare technologies",data analysis using powerbi,.,
+5/28/2026 23:41:17,Keerthana G Nair ,2440129,keerthana.nair@bsccmh.christuniversity.in,8660721134,https://www.linkedin.com/in/keerthana-g-nair-794716353?utm_source=share_via&utm_content=profile&utm_medium=member_android,https://github.com/,,"TAVANT TECHNOLOGIES - UI/UX Intern(onsite), Digisnare Technologies - Web development Intern (remote)","I interned with Digisnare Technologies as a web development intern, contributing to a PDF Converter tool that includes image-to-PDF, HTML-to-PDF, Excel-to-PDF, and PDF-to-image modules. Developed using HTML, CSS, JavaScript, and PHP.
+
+TAVANT- Built an interactive menu interface using HTML, CSS, and JavaScript. The project includes category-based navigation, a real-time search bar, and dynamic filtering of items. Each product card displays an image, name, and price in a clean, responsive layout. ","Python, SQL, HTML, CSS, AI, ",
+5/30/2026 20:50:35,Lavanya K Valsaraj ,2440132,lavanya.valsaraj@bsccmh.christuniversity.in,9945417129,www.linkedin.com/in/lavanya-k-valsaraj-139876315,https://github.com/Lavanya-K-Valsaraj,"Computer Science student passionate about software development, web development, and problem-solving. Interested in exploring emerging technologies, building practical projects, and continuously learning new skills to create meaningful solutions.","Techiekit Solutions , Web Development Intern ","Made a Discussion Forum, An Interactive footer and helped with the UI/UX of the company website","HTML,CSS,JavaScript,C,C++,Python,Java,MySQL,Web Development",https://drive.google.com/open?id=18U7z-gVftmkKY3QsNVlg2mAsH9n9Q8Hf
+5/30/2026 20:44:13,Lavanya R,2440165,lavanya.r@bsccmh.christuniversity.in,9482731281,https://www.linkedin.com/in/lavanya-r-b942ab396 ,https://github.com/lavanyar-hue,Full-stack developer passionate about building projects and exploring new technologies. I've developed multiple personal projects and contributed to web development work in the NGO sector,"InternPe python programmer, Abhyudaya(Ngo) fullstack webdeveloper","Project name Web app Aarohana, technologies Html, css, javascript, python flask for backend, firestore database 
+Its is built for an mega event happing in ha NGO called Aarohana .This project meant to reduce the manually work and also paperless judging system by saving maximum amount of time in handling 3000 students details ","Python, java, node js, react, c
+Firebase database, firestore database, mango DB, msql, UI/UX",
+5/30/2026 13:56:36,Mackenzie Jeffy L ,2440134,mackenzie.jeffy@bsccmh.christuniversity.in,9566593352,,,"I am a creative and enthusiastic individual with a strong interest in technology and design and analysing. I enjoy working on creative projects related to app development, web development, UI/UX design, and full-stack development. I love combining creativity with technical skills to build innovative and user-friendly solutions. Along with my passion for technology, I also enjoy artistic activities like dance, singing, sketching, and writing, which help me bring fresh and imaginative ideas into my work.","Company name: Digisnare
+Role : intern (full stack developer)
+Developed and helped in otp based booking appointment with doctor ","It is a otp based booking doctors appointment  in online for either online consultation or offline consultation and technology used are html,css,javascript,node js and xampp  as local server","
+Proficient in SQL, HTML, CSS, JavaScript, PHP, C and Python, with experience in web and application development using Android Studio. Interested in UI/UX and full-stack development, with a passion for creating creative, responsive, and user-friendly digital solutions. Familiar with database management, front-end and back-end development, and problem-solving through programming.",
+5/28/2026 22:47:09,Milen Madhumon,2440137,milen.madhumon@bsccmh.christuniversity.in,8590448623,www.linkedin.com/in/milen-madhumon-b04aa4316,,,Digisnare Technologies - Web development Intern,"Fest Participation and Certificate Generator - A dynamic web application designed to streamline college festival management. It automates user registration, tracks event participation, and instantly generates secure, downloadable merit or participation certificates for attendees upon event completion. 
+HTML, CSS, JavaScript, Bootstrap, PHP.","HTML, CSS, JavaScript, Python, Java.",https://drive.google.com/open?id=1UEeHYf5lvbUMImaLtGbHJK7-LC5iH2hs
+5/29/2026 20:28:00,Mule Lokesh ,2440168,Mule.lokesh@bsccmh.christuniversity.in,8197397644,https://www.linkedin.com/in/mule-lokesh-167b4a354/,,"I’m a 3rd-year B.Sc. CM student who is passionate about technology and learning new things. I enjoy problem-solving, working on projects, and improving my technical skills. I’m a quick learner, adaptable, and looking forward to gaining real-world experience and growing professionally.
+",web developer at digisnare technoloies,"Project Name: Local Mart – Price Comparison Mobile Application
+Technologies Used: Kotlin, SQLite, RecyclerView, Android Studio","Developed an Android mobile application that compares product prices across multiple platforms in a single interface. Implemented product search, smooth list rendering using RecyclerView, and local data storage using SQLite for efficient data management.",https://drive.google.com/open?id=15gs_V9kKJ3NdNspbJR3s1cToYmL04bbq
+5/29/2026 18:43:12,Nandana Sujith,2440140,nandana.sujith@bsccmh.christuniversity.in,09481694289,https://www.linkedin.com/in/nandana-sujith-37859631b/,,"I am a creative and enthusiastic individual with a strong interest in technology and design. I enjoy working on creative projects related to app development, web development, UI/UX design, and full-stack development. I love combining creativity with technical skills to build innovative and user-friendly solutions. Along with my passion for technology, I also enjoy artistic activities like dance, singing, sketching, and writing, which help me bring fresh and imaginative ideas into my work.
+",ApexPlanet (Web Developer),"Menstrual Wellness and Tracker App is a smart and user-friendly application developed by me to help users track their menstrual cycle, monitor health patterns, and improve overall wellness. The app provides cycle predictions, symptom tracking, reminders, wellness tips, and personalized insights to support both physical and mental well-being in a simple and accessible way.
+","Technical Skills:
+Proficient in SQL, HTML, CSS, JavaScript, PHP, C, C++, and Python, with experience in web and application development using Android Studio. Interested in UI/UX and full-stack development, with a passion for creating creative, responsive, and user-friendly digital solutions. Familiar with database management, front-end and back-end development, and problem-solving through programming.
+",
+5/28/2026 21:23:55,Nisha M,2440142,nisha.m@bsccmh.christuniversity.in,8088428364,,,"I am a B.Sc. Computer Science and Mathematics student with an interest in UI/UX and graphic design. I enjoy creating simple and user-friendly designs using tools like Figma and Canva. I am a creative person with good teamwork and problem-solving skills, and I am always interested in learning new things and improving my design skills","Mindenious edutech 
+Ui/Ux design training 
+Graphic design training ","Delivery app
+Technologies used - figma 
+Delivery app UI/UX design created using basic design principles.The project mainly focuses on creating a clean and user-friendly app interface.","
+UI/UX Design
+Figma
+Wireframing & Prototyping
+Canva
+User Interface Design",
+5/30/2026 19:40:43,Priya M ,2440145,priya.m@bsccmh.christuniversity.in,6362498350,,,"I am passionate about understanding how systems work at a fundamental level and applying that knowledge to solve real-world problems. My academic journey has strengthened my foundation in programming, algorithms, database systems, and computational thinking. Curious and always learning, my goal is to contribute to building more secure, reliable, and innovative digital systems.","Company Name - Digisnare® Technologies LLP
+Role -  Web Designing and Developer ","Project Name- RESORT LEADS MANAGEMENT
+Technologies Used - HTML5, CSS, Java Script, Bootstrap, PHP, MySQL, XAMPP, Visual Studio Code
+Short Description- Managing leads involves capturing guest inquiries, tracking follow-ups, and converting those leads into confirmed bookings. An efficient lead management system ensures that no inquiry is missed, responses are prompt, and the customer experience remains smooth and professional. ","Python, Java, C programming, PHP, MySQL, Bootstrap, Microsoft Word, Excel, PowerPoint, Mobile Application, HTML, CSS, JavaScript ",
+5/30/2026 14:07:21,Priyansu Choudhury ,2440146,priyansu.choudhury@bsccmh.christuniversity.in,7047677658,https://www.linkedin.com/in/priyansu-choudhury-b2a0a123a,,"Final-year B.Sc. Computer Science student at Christ University, Bangalore, with strong interests in data analytics and problem-solving. Skilled in Python, and visualization tools like PowerBi, and currently exploring Kotlin for Android and backend development. Passionate about building efficient, scalable solutions and continuously expanding technical expertise.","1. Company Name: Digisnare Technologies LLP, Role: Data Analyst 
+2. Company Name: Ties.in, Role: Content Writer ","1. Amazon Sales Data Analysis - Data Visualization using PowerBi 
+2. Indian Defence Wiki - Mobile Application Development using Kotlin 
+3. Bank Loan Defaulter Analysis - Mobile Application Development using Kotlin(ongoing)","Programming languages - C, Python, SQL
+Tools- PowerBi, Tableau ",
+5/30/2026 12:44:39,Rahul R,2440166,rahul.r@bsccmh.christuniversity.in,8310082833,https://www.linkedin.com/in/rahul-r-955a08346?utm_source=share_via&utm_content=profile&utm_medium=member_android,https://github.com/Rahul83100,"I am a final-year B.Sc. Computer Science & Mathematics student at CHRIST University, Bangalore, with a strong foundation in Artificial Intelligence, Machine Learning, and full-stack software development. I have hands-on experience building and deploying production-grade AI systems most notably KiraPro.in, a multi-tenant AI-powered SaaS platform I founded and scaled to 25+ paying users within two weeks of launch.
+My technical expertise spans RAG pipelines, LLM integration (Google Gemini, Anthropic Claude, HuggingFace Transformers), cloud infrastructure (AWS, Docker, Kubernetes), and DevSecOps automation. I am currently conducting independent NLP research on gender bias in transformer-based sentiment analysis for Indian English, applying rigorous statistical methods including Bonferroni correction and Cohen's d evaluation.
+I am driven by the goal of building AI systems that are not only technically robust but also ethically grounded and real-world impactful. I am actively seeking opportunities in AI Engineering and Software Development where I can contribute meaningfully from day one.","Internship company 1:  CHRIST Innovation and Development
+Role: Cyber Security & Infrastructure Operations Intern
+
+company 2: Site2Success
+Role: Founder & AI Solutions Architect","Project 1: AI-Enhanced DevSecOps Auditing Pipeline
+Technologies: AWS EC2, Jenkins, Docker, SonarQube, TruffleHog, Snyk, Checkov, OWASP ZAP, Anthropic Claude API
+Description: Automated end-to-end DevSecOps pipeline with 4-layer security scanning (SAST, Secrets, SCA, DAST) and AI-powered report synthesis using Claude API, delivering findings to an executive HTML dashboard.
+
+Project 2: KiraPro.in — AI-Powered Customer Support SaaS
+Technologies: Node.js, React, PostgreSQL, pgvector, LangChain, Google Gemini 2.5 Flash, Redis, BullMQ, Docker, Kubernetes, Razorpay, Firebase
+Description: Multi-tenant SaaS that lets any business deploy a 24/7 AI support agent via a single script tag, powered by a RAG pipeline with semantic vector search. Acquired 25+ paying users within 2 weeks of launch.
+","Python, Java, C++, JavaScript, PyTorch, HuggingFace Transformers, LangChain, RAG Pipelines, pgvector, Anthropic Claude API, Google Gemini API, DistilBERT, RoBERTa, scikit-learn, SciPy, Node.js, Express, React, Vite, Tailwind CSS, AWS EC2, Docker, Kubernetes, Helm, Jenkins, GitHub Actions, SonarQube, OWASP ZAP, TruffleHog, Snyk, Checkov, PostgreSQL, MongoDB, Redis, Supabase, Firebase, Razorpay, BullMQ, Puppeteer, Vercel, Render, Google Colab, NLP, Vector Embeddings, DevSecOps, CI/CD, REST APIs, SSE Streaming, Multi-tenant Architecture",https://drive.google.com/open?id=12BFcCvWsUXGQZLZNxdrzRKb8KfjEfi7e
+5/28/2026 22:27:18,Rashmi K,2440170,rashmi.k@bsccmh.christuniversity.in,8431936841,https://www.linkedin.com/in/rashmi-k2006/,github.com/rashmi-k2006,"I am a BSc Computer Science & Mathematics student at Christ University and a Full Stack Developer Intern who transforms complex workflows into scalable, user-centric software. Combining an analytical mindset with practical skills in React.js, FastAPI, and mobile development, I engineer robust digital solutions that solve real-world problems","Site2Success – Full Stack Developer Intern (Oct 2025 – Mar 2026): Developed a University Internship Management System for Christ University using React.js and FastAPI, including internship posting, student applications, dashboard modules, and workflow tracking.
+
+Kosher Climate India Pvt. Ltd. – Data Validator Intern (Apr 2026 – May 2026): Worked on GIS data validation, KML preparation using Google Earth Pro, polygon review, and LULC analysis for carbon credit projects.
+
+Digisnare Technologies – Web Development Intern (Apr 2025 – May 2025): Built an Employee Daily Check-in and Attendance System using PHP and MySQL with admin dashboard, role-based access, and CSV export.","Internship Management System (React.js, FastAPI, PostgreSQL): ERP-integrated platform for Christ University to manage internship postings, student applications, approvals, and progress tracking with role-based dashboards.
+
+HN Pulse – Hacker News Reader App (Flutter, Riverpod, Firebase, Hive): Mobile application with offline bookmarking, recursive comment rendering, in-app browser, and modern Material 3 UI.
+
+QueueEase – Smart Queue Management App (Kotlin, Firebase, OpenStreetMap, Room Database): Real-time virtual queue management platform with customer/business dashboards and queue analytics.
+
+Employee Daily Check-in System (HTML, CSS, JavaScript, PHP, MySQL): Web-based employee attendance system with secure login, admin controls, and export functionality.","Python, Java, JavaScript, Kotlin, SQL, React.js, Flutter, FastAPI, PHP, HTML, CSS, PostgreSQL, MySQL, Firebase Firestore, Hive, Git, GitHub, Android Studio, VS Code, REST APIs, Clean Architecture, Google Apps Script, Google Earth Pro, GIS Data Handling, LULC Analysis, Riverpod, Full Stack Development, Mobile App Development",https://drive.google.com/open?id=1r1AmW0CNvQv6nRjxn957SXDALrTmeSo_
+5/30/2026 17:15:14,Rowena Salvador Carvalho ,2440163,rowena.carvalho@bsccmh.christuniversity.in,8830002387,https://www.linkedin.com/in/rowena-carvalho-7350ab365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app,,"B.Sc. Computer Science and Mathematics student passionate about cybersecurity, software development, and AI. Skilled in building full-stack web applications, AI chatbots, and database-driven solutions using Python, Next.js, FastAPI, and PostgreSQL. Enthusiastic about creating innovative and impactful technology solutions.","Codanto - Web Development Intern 
+Christ Online Degree - AI and Web Development Intern ","RAG-Based AI Chatbot
+
+Developed a Retrieval-Augmented Generation (RAG) chatbot that retrieves relevant information from a knowledge base and generates accurate, context-aware responses using AI. The system enables users to query documents efficiently through a conversational interface, improving information accessibility and response accuracy.
+
+Technologies Used:
+        •        Python – Backend development
+        •        FastAPI – API development
+        •        LangChain – RAG pipeline orchestration
+        •        Google Gemini/OpenAI API – Large Language Model (LLM)
+        •        PyPDF – PDF document processing
+        •        React/Next.js – Frontend interface
+        •        Tailwind CSS – UI styling","•	Languages: Java, Python, JavaScript, SQL, HTML, CSS
+	•	Frameworks & Libraries: Next.js, React.js, Tailwind CSS, FastAPI, LangChain
+	•	Databases: PostgreSQL
+	•	Tools: Git, GitHub, VS Code, Postman, pgAdmin, Tinkercad, Canva
+	•	Technologies: AI, RAG, NLP, REST APIs, DBMS, Cloud Computing, OOP, Full-Stack Development",
+5/30/2026 10:28:41,Shaurya Sharma,2440149,shauryaanuj.sharma@bsccmh.christuniversity.in,8320160315,,,"I am a dedicated undergraduate student pursuing BSc in Computer Science and Mathematics at CHRIST (Deemed to be University), Bangalore. I have hands-on experience in full-stack web development, mobile application development, database management, and data analysis, with a growing proficiency in leveraging AI tools to work smarter and build faster. I am also actively exploring cybersecurity, cloud computing, and software development to expand my technical expertise. From deploying live production websites to building Android applications, I bring a practical, build-first approach to every project. I value teamwork, adaptability, and creative problem-solving, and am eager to contribute my skills in real-world environments while continuously learning and taking on new challenges.","3D Web Window - Web Developer
+Freelancer - Full Stack Developer ","PURECRUNCHH — E-Commerce Website & Vendor SoftwareIn Progress
+•
+Full stack e-commerce platform for a makhana brand (Razor Pages, CSS, JS) with database integration — independent build
+going live shortly; vendor-facing mobile inventory management software planned post-launch.
+
+ANIX — Anime Mobile ApplicationCompleted
+College Project
+•
+Kotlin/Android Studio app — IMDb-style anime discovery platform with API integration, user authentication, structured
+database, saved watchlists and preferences, and a clean browsing and search UI.
+
+3D Web Window & Shree Shubh Hospital — Client WebsitesCompleted
+Client Projects | www.3dwebwindow.com & www.shreeshubhhospital.com
+•
+Two fully deployed production websites built with ASP .NET Core and Razor Pages — covering UI/UX design, IIS deployment, SSL,
+SEO, and mobile-first responsiveness.","Development: Full Stack Development, Frontend, Backend, Mobile App Development, ASP .NET Core, UI/UX, DBMS
+Languages & Tools: HTML, CSS, Razor Pages, MySQL,Python, Kotlin, Power BI, PHP , JavaScript, C, Java
+Productivity: Canva, Google Docs & Sheets, AI Tool Proficiency
+Soft Skills: Problem-Solving, Team Collaboration, Critical Thinking, Adaptability, Communication, Leadership",https://drive.google.com/open?id=1NCoRtUeJS4f_Pek-l_rxb7AOk-Lg8KEL
+5/30/2026 21:48:26,Sindhu,2440152,sindhu@bsccmh.christuniversity.in,8217865163,,,"I'm Sindhu, a Computer Science student at Christ University, pursuing my BSc. in Computer Science. I'd describe myself as someone who's confident, driven, and loves taking on challenges head-first.  I don't really wait for things to fall into place , I just go ahead and make them happen. Leadership comes naturally to me, and I believe that if you're passionate enough about something, you'll find a way to build it with or without a team.","Digisnare Technologies – Web Development Intern
+Worked on web development projects, assisting in website design, development, and maintenance.
+
+Spectrum Private Limited – HR Intern
+Assisted with pre and post onboarding formalities, employee coordination, and various human resource management activities.","Project Name
+TrustShield AI
+
+Technologies Used
+Android Studio, Firebase, Python, Flask, React.js, Scikit-learn, NLP, OCR, REST APIs, SQLite, Google Safe Browsing API, VirusTotal API, Machine Learning, Web Scraping, HTML/CSS/JavaScript
+
+Short Description
+TrustShield AI is an AI-powered digital trust verification platform that protects users from fake job offers, phishing websites, clone portals, and online misinformation. Users can submit a job link, company name, URL, screenshot, or news article to instantly receive a Trust Score — classifying the source as legitimate, suspicious, or fraudulent — using real-time cross-verification across company databases, scam blacklists, domain analysis, NLP-based fake news detection, and OCR-powered screenshot scanning.","Technologies that are used :
+Android Studio — mobile app
+React.js — web dashboard
+Python + Flask — backend server and ML logic
+Firebase — user auth, real-time alerts, cloud storage
+SQLite — local scam blacklist database
+Scikit-learn + NLP (spaCy/NLTK) — AI trust scoring and fake news detection
+Tesseract OCR — scan screenshots and offer letters
+BeautifulSoup / Scrapy — web scraping for company data
+Google Safe Browsing + VirusTotal APIs — phishing and malware checks
+Datasets needed:
+Kaggle fake job listings dataset
+LIAR / FakeNewsNet for misinformation
+PhishTank / OpenPhish for phishing URLs",https://drive.google.com/open?id=1JvdWOlp2kB5LYJxgSO2Sby_HCkZBfz35
+5/29/2026 13:22:34,Sovel Jaison Arrikkatt,2440154,sovel.jaison@bsccmh.christuniversity.in,8848234089,https://www.linkedin.com/in/sovel-jaison-arrikkatt-429239316?utm_source=share_via&utm_content=profile&utm_medium=member_ios,,"A curious and driven Computer Science student who enjoys turning ideas into meaningful digital solutions. Passionate about technology, problem-solving, and continuous learning, with hands-on experience in developing practical projects and exploring innovative solutions that can create real-world impact.","HR Digisnare private limited 
+As web Developer ","Project Name: BookMyDoc
+
+Technologies Used:
+Node.js, Express.js, EJS, MySQL, HTML, CSS, JavaScript
+
+Short Description:
+BookMyDoc is a web-based doctor appointment booking system designed for online video consultations. It enables users to book appointments by selecting doctors, preferred timings, and locations, followed by secure OTP verification. The system also generates a downloadable PDF invoice after successful booking, providing a simple and efficient healthcare appointment experience.","Java,C,Html,Css,Mysql,python,java script ",https://drive.google.com/open?id=1dNpSkidljwfqvgM3UhG56VZkeJQPCSdD
+6/1/2026 16:17:55,Sowmya M ,2440169,sowmya.m@bsccmh.christuniversity.in,8792272960,https://www.linkedin.com/in/sowmya-m-819b3b3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android,,"Computer Science and Mathematics student at Christ University with experience in web development and software projects. Skilled in Python, Java, JavaScript, React.js, FastAPI, and databases. Passionate about problem-solving, learning new technologies, and building practical software solutions.",Digsnare technologies Web Development ,"MentorMind — An AI-powered RAG-based business mentor chatbot that delivers personalized, multilingual startup guidance to first-generation Indian entrepreneurs using real founder stories and viability scoring.
+MediTruth is a web app that converts complex medical reports into simple language using OCR and Claude AI — built for patients and families who can't understand hospital documents.
+Tech: React • Python • FastAPI • Claude AI • OCR
+Online Quiz Management System | HTML, CSS, JavaScript, PHP, MySQL
+A web application for creating and managing quizzes with secure login, automated evaluation, role-based access, and database integration for efficient data management.","Python, Java, JavaScript, Kotlin, HTML, CSS, PHP, React.js, FastAPI, MySQL, PostgreSQL, Firebase Firestore, Git, GitHub, VS Code, Android Studio, Google Apps Script, MS Excel, Google Sheets, Data Structures and Algorithms (DSA), Web Development, Database Management, REST APIs, Problem Solving, FastAPI, Claude AI, Tesseract OCR, PostgreSQL, JWT, Recharts",https://drive.google.com/open?id=1kOy6vU869z-aJm6VnYDoqpys-MLojVwg
+5/29/2026 21:13:03,Supriya Dey,2440155,supriya.dey@bsccmh.christuniversity.in,9535707980,https://www.linkedin.com/in/supriya-dey-1b4785352/,https://github.com/Supriya-Dey805,"I am a student who is passionate about programming, AI, and app development. I enjoy learning new technologies and working on projects that are useful in real life. I like exploring creative ideas, improving my skills, and gaining practical experience through continuous learning. My goal is to grow as a software professional and contribute positively wherever I work.
+","Digisnare Technologies: Web Developer 
+Pratinik Infotech : Web Developer
+TredEx Technology:Web Developer
+Naviotech Solutions: Full Stack Web Developer
+","1) BlogSphere, Advanced full stack blogging platform with authentication, likes, comments, bookmarks, trending posts, and dark mode, MERN Stack, React.js, Node.js, Express.js, MongoDB
+2) E-Commerce Store, Full stack e-commerce platform with responsive UI and Stripe payment integration, Next.js, Prisma, Stripe, PostgreSQL, TypeScript
+3) Content Management System, Customizable CMS with role-based access control and admin dashboard, MERN Stack, React.js, Node.js, Express.js, MongoDB
+4) Employee Attendance System, Attendance tracking and CSV report generation system for employee management, React.js, Node.js, Express.js, MongoDB
+5) Social Media Platform, Social media application with authentication, posts, likes, comments, and real-time notifications, MERN Stack, Socket.io, React.js, Node.js, MongoDB","C, Java, Python, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, GitHub, REST APIs, Bootstrap, Reactstrap, Axios, JWT Authentication, Responsive Web Design, OOP, DBMS, Data Structures and Algorithms",https://drive.google.com/open?id=1imlrNTlWWDMo9CAUKl_bhaZU-1SULjey
+,Tanisha jain,2440156,tanisha.jain@bsccmh.christuniversity.in,7760603430,https://www.linkedin.com/in/tanisha-jain895/,https://github.com/tanishajain-0895,"I am an aspiring software professional pursuing a B.Sc. in Computer Science and Mathematics at Christ University. With experience across software development, cloud technologies, mobile applications, web development, and data-driven projects, I am passionate about building scalable solutions and continuously expanding my technical expertise. I thrive in collaborative environments, enjoy solving challenging problems, and am committed to leveraging technology to create meaningful impact."," Web Development Intern - Tech Fortune Technologies, ","Lost & Found — Android Mobile Application (APK)
+Developed a fully functional Android application using Kotlin and Android Studio that enables users to report, search, and find lost items, with item listing, reporting features, and a published release APK.
+SmoothieBliss — Full Stack Web Application
+Built a full-stack e-commerce website using HTML5, CSS3, JavaScript, PHP, and MySQL, featuring product listings, shopping cart functionality, checkout, and a responsive user interface.
+Indian Startup Funding Analysis — Python & Tableau
+Analyzed Indian startup funding data using Python, Pandas, and Tableau to uncover investment trends and business insights, and developed an interactive dashboard visualizing funding distribution across cities, sectors, and investment stages.",,
+5/30/2026 23:43:23,Vijayasree Kn,2440160,vijayasree.kn@bsccmh.christuniversity.in,8075670299,https://www.linkedin.com/in/vijayasree-kn-b5573,https://github.com/vijayasree2025,"I have a strong interest in web development and emerging technologies. I have worked on web-based and AI-related projects and enjoy building practical solutions through technology. I am a quick learner with good problem-solving skills and am eager to gain industry experience, enhance my technical knowledge, and contribute effectively in a professional environment. I also have a basic understanding of cloud computing and am interested in exploring it further.","Eduversity - Web Development & Al Internship
+(1 April 2025 - 31 May 2025)
+Mindwave - Educational Web Platform ","1) Mindwave - Educational Web Platform Technologies Used: HTML, CSS, JavaScript, Node js, Express
+Developed a responsive educational website with modules like Homepage, Login, Registration, Courses, and Contact page.
+Worked on frontend design and basic backend integration using Node.js and Express.
+2)SheStyleHub - Premium Women's only
+Fashion App
+Technologies Used: Android Studio, Kotlin, XML,
+SharedPreferences, Material Design 3
+Short Description:
+Developed a premium women's fashion mobile application using Android Studio and Kotlin. The app includes secure user authentication, interactive product galleries, shopping cart management, order tracking, and profile management. Implemented responsive UI components using Material Design 3 and local data storage using SharedPreferences to provide a smooth and personalized shopping experience.","Python, HTML,CSS, MySQL, Web Development, Basic Frontend Development, Basic Backend Development",
+5/29/2026 18:37:37,Yash Gandha,2440161,yash.gandha@bsccmh.christuniversity.in,7760020387,https://www.linkedin.com/in/yash-gandha-413311316/,,"I am a Computer Science and Mathematics student with hands on experience in fullstack web development, mobile application development, and data analysis. I have completed internships as a Flutter developer and a Data Analyst, giving me practical exposure to both product development and data-driven problem solving. I am comfortable working across multiple technologies and enjoy building solutions that solve real, meaningful problems.","Digisnare technologies- Data Analyst
+Agron Greentech-Flutter app developer","1. Responsive Websites
+Built multiple responsive websites including a streaming platform, focused on smooth user experience across devices.
+HTML, CSS, JavaScript, PHP, MySQL
+2. Linguify — Language Translation App
+A mobile translation app designed for the Bangalore context, supporting real-life scenarios like travel, shopping, and communication, with added accessibility features.
+Android Studio, Java
+3. Phone Usage & Behavior Correlation — Data Analysis
+Analyzed phone usage patterns and their behavioral correlations using statistical techniques to derive meaningful trends and insights.
+Python, Excel, Statistical Analysis
+4. Tenant Rights Assistant (Ongoing)
+A web platform that scans and analyzes lease agreements to flag potentially illegal clauses, compares content against tenant protection regulations using a legal database and ML model, and auto-generates dispute or complaint letters.
+React.js, Node.js, Python, ML, PostgreSQL, MongoDB, LLM API
+","Programming Languages
+C, Python, Java, JavaScript, PHP, HTML, CSS, R
+Frameworks & Tools
+Flutter, Android Studio, React.js, Node.js, Excel, Tableau, Power BI, Arduino
+Databases
+MySQL, MongoDB, PostgreSQL
+Data & Analytics
+Data Analysis, Data Visualization, KPI Analysis, Statistical Analysis, Dashboard Development
+Other
+Linux, Cloud Computing, REST APIs, LLM Integration, Machine Learning
+",https://drive.google.com/open?id=1OKK22knbOaNSSLHECgcAIap8s9EzZ_eL
+5/29/2026 13:23:27,Yasha R,2440162,yashas.r@bsccmh.christuniversity.in,9035677060,https://www.linkedin.com/in/yashas-r-1b32b6316,,"Final-year BSc Computer Science & Mathematics student who enjoys building complete, working applications full-stack — React/TypeScript on the front, Python/FastAPI on the back, plus AI features using retrieval-augmented generation and a local LLM. I like turning rough ideas into clean, polished products","Art of Law — Frontend Developer & Project Lead (Apr–Jun 2025): Led a small team end-to-end (planning, task allocation, on-time delivery) while building the React.js frontend (JSX, CSS Modules) and designing UI in Figma. Shipped two functional web apps.","AgriSakha — AI Agriculture Advisory: Solo-built RAG platform giving Indian farmers cited crop advice, top-3 crop recommendations from soil/climate inputs, and a searchable 40+ government-scheme database. (FastAPI, Ollama/llama3.2, Qdrant, scikit-learn, React/TypeScript)
+JobTrail — Placement Application Tracker: Full-stack app with a drag-and-drop Kanban pipeline and analytics dashboard (funnel, conversion-by-source), using JWT auth and Redis-cached queries. (React/TypeScript, FastAPI, PostgreSQL, Redis, Docker)",Python react.js sql ,
+6/1/2026 23:12:57,Dew Dasgupta,2440119,dew.dasgupta@bsccmh.christuniversity.in,6000913642,https://www.linkedin.com/in/dew-dg-01159b316/,https://github.com/dg-dew,"Passionate about crafting seamless digital experiences through web development and UI/UX design. I enjoy transforming ideas into intuitive, user-centric solutions while continuously exploring modern technologies and design trends.","1.Prodigy InfoTech - as a Cyber Security Intern 
+2. CodSoft - Web Developer   ","Trackie is a native Android application developed using Kotlin and Material Design XML, designed to automate and streamline package logging and delivery management for residential complexes, student housing, or logistics desks. The application features an intuitive administrator dashboard with a customized Floating Action Button (FAB) that initializes camera and barcode scanning utilities. Incoming packages are rendered dynamically using a high-performance RecyclerView and customized CardViews, displaying crucial delivery tracking data such as resident name, room number, and arrival timestamps to minimize manual data-entry errors and optimize mailroom workflows.
+
+Clothing Shop Website – Developed a responsive e-commerce website for a clothing store using HTML, CSS, JavaScript, and Bootstrap. Designed an intuitive user interface with product showcases, navigation features, and mobile-friendly layouts to enhance user experience.
+
+Personal Portfolio Website – Created a personal portfolio website to showcase projects, skills, and achievements. Implemented responsive design principles and modern UI elements using HTML, CSS, and JavaScript.","Programming Languages: Java, JavaScript, Kotlin (Basic)
+Web Technologies: HTML5, CSS3, JavaScript, Bootstrap
+Database Management: MySQL
+Tools & Platforms: Android Studio, Firebase, Git, GitHub, VS Code
+Concepts: Object-Oriented Programming (OOP), Responsive Web Design, UI/UX Design Fundamentals",
+6/1/2026 23:16:46,Dhruvi Bhansali,2440120,dhruvi.bhansali@bsccmh.christuniversity.in,8431069768,,,"A motivated BSc student with hands-on experience in web and Android app development, database management, and data analysis. Passionate about leveraging AI and modern technologies to build efficient, real-world digital solutions.","Company Name: Digisnare Technologies
+Role/Position: Web Development Intern
+Description: Developed and deployed a fully functional Gondola Ride Booking Website. Responsibilities included designing the user interface, managing the booking workflow, and ensuring seamless navigation for users.","Gondola Ride Booking Website: Developed a web-based platform using HTML, CSS, JavaScript, PHP, and MySQL to streamline and automate the reservation process for gondola rides.
+
+Waste Management Application: Created an Android application using Android Studio and Java to optimize waste collection and track disposal data for cleaner communities.","Java, Python, C, C++, HTML, CSS, JavaScript, PHP, MySQL, Database Management Systems (DBMS), Data Structures, Microsoft Excel, Android Studio",

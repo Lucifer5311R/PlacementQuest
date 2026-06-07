@@ -1,0 +1,44 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Student {
+  id               String   @id @default(cuid())
+  fullName         String
+  regNumber        String   @unique
+  email            String   @unique
+  phone            String
+  linkedinUrl      String?
+  githubUrl        String?
+  description      String?
+  internships      String?
+  projects         String?
+  skills           String?
+  resumeUrl        String?
+  aptitudeScore    Int?
+  domainScore      Int?
+  placementStatus  String   @default("Available")
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}
+
+model Question {
+  id            String   @id @default(cuid())
+  category      String   // Aptitude or Domain
+  subCategory   String   // e.g., Quantitative, OS, Java
+  content       String
+  options       String   // JSON string of options
+  correctAnswer String
+  difficulty    String?   // Easy, Medium, Hard
+}
+
+model User {
+  id       String @id @default(cuid())
+  username String @unique
+  password String
+  role     String @default("student") // admin or student
+}
